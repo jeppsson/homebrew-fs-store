@@ -1,5 +1,3 @@
-require "formula"
-
 class FsStore < Formula
   homepage "https://github.com/jeppsson/homebrew-fs-store"
   url "https://github.com/jeppsson/homebrew-fs-store/raw/master/libs/fs-store-0.0.1.zip"
